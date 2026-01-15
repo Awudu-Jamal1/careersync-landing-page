@@ -3,7 +3,7 @@ import {
   ChevronLeft, 
   ChevronRight, 
   Search, 
-  Infinity, 
+Atom, 
   ShoppingBag, 
   Cpu, 
   Smartphone, 
@@ -15,7 +15,7 @@ import {
 
 const COMPANIES = [
   { name: 'Google', icon: Search, color: 'from-blue-500 to-blue-600' },
-  { name: 'Meta', icon: Infinity, color: 'from-indigo-500 to-indigo-600' },
+  { name: 'Meta', icon: Atom, color: 'from-indigo-500 to-indigo-600' },
   { name: 'Amazon', icon: ShoppingBag, color: 'from-orange-400 to-orange-500' },
   { name: 'Microsoft', icon: Cpu, color: 'from-cyan-500 to-blue-500' },
   { name: 'Apple', icon: Smartphone, color: 'from-zinc-800 to-black' },
