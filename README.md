@@ -21,5 +21,5 @@ CareerSync is a high-conversion, single-page landing page built for a modern sof
 ## 🛠️ Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/careersync-landing.git](https://github.com/your-username/careersync-landing.git)
+   git clone [https://github.com/Awudu-Jamal1/careersync-landing-page.git]
 
